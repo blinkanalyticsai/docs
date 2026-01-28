@@ -84,8 +84,8 @@
     }
   },
   "logo": {
-    "light": "/images/Serin Logo_TR_White.png",
-    "dark": "/images/Serin_Log0_TR_Black_v0.2.png"
+    "light": "/images/Serin_Log0_TR_Black_v0.2.png",
+    "dark": "/images/Serin Logo_TR_White.png"
   },
   "navbar": {
     "links": [
