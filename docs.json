@@ -113,14 +113,14 @@
    ]
   },
   "fonts": {
-    "family": "Playfair Display",
+    "family": "Geist",
     "weight": 400,
     "heading": {
       "family": "Playfair Display",
       "weight": 400
     },
     "body": {
-      "family": "Inter",
+      "family": "Geist",
       "weight": 300
     }
   },
